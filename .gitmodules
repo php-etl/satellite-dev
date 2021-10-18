@@ -1,0 +1,42 @@
+[submodule "satellite"]
+	path = satellite
+	url = https://github.com/php-etl/satellite
+[submodule "akeneo-plugin"]
+	path = akeneo-plugin
+	url = https://github.com/php-etl/akeneo-plugin
+[submodule "configurator-contracts"]
+	path = configurator-contracts
+	url = https://github.com/php-etl/configurator-contracts
+[submodule "csv-plugin"]
+	path = csv-plugin
+	url = https://github.com/php-etl/csv-plugin
+[submodule "spreadsheet-plugin"]
+	path = spreadsheet-plugin
+	url = https://github.com/php-etl/spreadsheet-plugin
+[submodule "sylius-plugin"]
+	path = sylius-plugin
+	url = https://github.com/php-etl/sylius-plugin
+[submodule "sql-plugin"]
+	path = sql-plugin
+	url = https://github.com/php-etl/sql-plugin
+[submodule "fast-map-plugin"]
+	path = fast-map-plugin
+	url = https://github.com/php-etl/fast-map-plugin
+[submodule "akeneo-expression-language"]
+	path = akeneo-expression-language
+	url = https://github.com/php-etl/akeneo-expression-language
+[submodule "string-expression-language"]
+	path = string-expression-language
+	url = https://github.com/php-etl/string-expression-language
+[submodule "array-expression-language"]
+	path = array-expression-language
+	url = https://github.com/php-etl/array-expression-language
+[submodule "packaging-contracts"]
+	path = packaging-contracts
+	url = https://github.com/php-etl/packaging-contracts
+[submodule "metadata-contracts"]
+	path = metadata-contracts
+	url = https://github.com/php-etl/metadata-contracts
+[submodule "json-plugin"]
+	path = json-plugin
+	url = https://github.com/php-etl/json-plugin
